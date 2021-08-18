@@ -1,6 +1,4 @@
-      Author : Amir Shapkota          
-  https://www.amirshapkota.com.np     
-
+    Author : Amir Shapkota          
 
 # SIMPLE TIC TAC TOE GAME 
 
